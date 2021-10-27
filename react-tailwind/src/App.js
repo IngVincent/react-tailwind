@@ -15,7 +15,7 @@ function App() {
 >
   <div className={`${isAnimated ? "scale-y-100" : "scale-y-0"} mt-10 text-center lg:text-left transform transition duration-1000 ease-in-out`}>
     <h1 className="font-black text-5x1 lg:text-6xl">
-      Fresh Healty 
+      <br/> Fresh Healty 
       <br/>
       <span className="font-quicksand font-light">Delicious Salads</span>
     </h1>
